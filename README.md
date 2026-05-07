@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...App development
-- 🌱 I’m currently learning ...Java
+- 🔭 I’m currently working on ...My first projects(searching ideas curr-make a game engine3D fuck)
+- 🌱 I’m currently learning ...ML
 - 👯 I’m looking to collaborate on ...Similar work
-- 🤔 I’m looking for help with ...web development with java
+- 🤔 I’m looking for help with ...Transformer model
 - 💬 Ask me about ...
 - 📫 How to reach me: ...mail me on my social
 - 😄 Pronouns: ...he/him
